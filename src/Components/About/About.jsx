@@ -15,7 +15,7 @@ const About = () => {
             <div className="about__data">
                 <Info></Info>
             
-            <p className="about__description">I am a Mern stack Developer and i have no experience</p>
+            <p className="about__description">{`I'm`} Muhammad Humayun Rashid Khan, a frontend developer passionate about crafting exceptional user experiences. With expertise in HTML, CSS, JavaScript, and React.js , I excel at turning design concepts into responsive and intuitive interfaces. I thrive in collaborative environments and prioritize delivering high-quality solutions that exceed client expectations. Beyond coding, I am a lifelong learner who enjoys outdoor adventures and creative pursuits. {`Let's`} connect and create something extraordinary together!</p>
              
              <a download="" href={CV} className="button button--flex">Download CV
              <svg
